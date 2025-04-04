@@ -48,5 +48,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para criar issues ou enviar
 
 ## 📝 Licença
 
-Este projeto está sob a licença [MIT](LICENSE). Sinta-se livre para usá-lo e modificá-lo conforme necessário.
+Desenvolvido por Alessandra Cardozo dos Santos
 
