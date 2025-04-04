@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Interativo</title>
+  <!-- Fonte do Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>Quiz Interativo</h1>
+    <!-- Div onde o JS renderiza as perguntas -->
+    <div id="quiz-container">
+      <p id="question"></p>
+      <div id="options"></div>
+    </div>
+    <!-- Botões -->
+    <button id="next-button">Próxima Pergunta</button>
+    <button id="restart-button" style="display: none;">Reiniciar Quiz</button>
+    <!-- Pontuação -->
+    <p id="score"></p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

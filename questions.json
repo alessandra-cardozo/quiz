@@ -1,0 +1,83 @@
+[
+    {
+      "question": "Qual é o maior oceano do mundo?",
+      "options": ["Oceano Atlântico", "Oceano Índico", "Oceano Pacífico", "Oceano Ártico"],
+      "answer": "Oceano Pacífico"
+    },
+    {
+      "question": "Quem foi o primeiro cientista a propor a teoria do heliocentrismo?",
+      "options": ["Galileu Galilei", "Isaac Newton", "Nicolau Copérnico", "Johannes Kepler"],
+      "answer": "Nicolau Copérnico"
+    },
+    {
+      "question": "Qual é o elemento químico com o símbolo 'Au'?",
+      "options": ["Prata", "Ouro", "Urânio", "Argônio"],
+      "answer": "Ouro"
+    },
+    {
+      "question": "Qual é a capital do Canadá?",
+      "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "answer": "Ottawa"
+    },
+    {
+      "question": "Quem escreveu a peça 'Hamlet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Victor Hugo"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "Qual país tem o maior número de Patrimônios Mundiais da UNESCO?",
+      "options": ["China", "Itália", "Índia", "Espanha"],
+      "answer": "Itália"
+    },
+    {
+      "question": "Quem pintou o teto da Capela Sistina?",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+      "answer": "Michelangelo"
+    },
+    {
+      "question": "Qual é o número primo mais próximo de 100?",
+      "options": ["97", "98", "101", "103"],
+      "answer": "97"
+    },
+    {
+      "question": "Qual é a velocidade da luz no vácuo?",
+      "options": [
+        "300.000 quilômetros por segundo",
+        "150.000 quilômetros por segundo",
+        "299.792 quilômetros por segundo",
+        "200.000 quilômetros por segundo"
+      ],
+      "answer": "299.792 quilômetros por segundo"
+    },
+    {
+      "question": "Quem é conhecido como o 'Pai da Computação'?",
+      "options": ["Alan Turing", "Charles Babbage", "John von Neumann", "Ada Lovelace"],
+      "answer": "Charles Babbage"
+    },
+    {
+      "question": "Qual civilização construiu Machu Picchu?",
+      "options": ["Astecas", "Maias", "Incas", "Olmecas"],
+      "answer": "Incas"
+    },
+    {
+      "question": "Qual é a moeda oficial do Japão?",
+      "options": ["Yuan", "Won", "Iene", "Dólar"],
+      "answer": "Iene"
+    },
+    {
+      "question": "Qual é a unidade usada para medir a intensidade de um som?",
+      "options": ["Hertz", "Pascal", "Decibel", "Newton"],
+      "answer": "Decibel"
+    },
+    {
+      "question": "Quantos ossos existem no corpo humano adulto?",
+      "options": ["206", "208", "210", "212"],
+      "answer": "206"
+    },
+    {
+      "question": "Qual é o planeta mais quente do Sistema Solar?",
+      "options": ["Vênus", "Mercúrio", "Marte", "Júpiter"],
+      "answer": "Vênus"
+    }
+  ]
+  
